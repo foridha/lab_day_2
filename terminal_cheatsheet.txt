@@ -1,0 +1,11 @@
+Navigating and Managing Files and Directories:
+ 
+pwd: Print the working directory (current directory).
+ls: List files and directories in the current directory.
+cd [directory]: Change the current directory to the specified one.
+cd ..: Move up one directory.
+touch [filename]: Create a new file.
+mkdir [directory]: Create a new directory.
+cp [source] [destination]: Copy files or directories.
+mv [source] [destination]: Move or rename files or directories.
+rm [file/directory]: Remove files or directories (scary - use with caution...).
