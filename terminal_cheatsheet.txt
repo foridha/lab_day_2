@@ -8,4 +8,4 @@ touch [filename]: Create a new file.
 mkdir [directory]: Create a new directory.
 cp [source] [destination]: Copy files or directories.
 mv [source] [destination]: Move or rename files or directories.
-rm [file/directory]: Remove files or directories (scary - use with caution...).
+rm [file/directory]: Remove files or directories (use with caution...).
